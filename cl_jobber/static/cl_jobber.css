@@ -1,0 +1,17 @@
+.hidden{
+	display:none;
+}
+.opt{
+	display:inline-block;
+	margin:0px;
+}
+.substates{
+
+}
+.opt:hover{
+	background-color:rgb(213,211,162);
+	cursor:pointer;
+}
+.backlit{
+	background-color:rgb(189,201,195);
+}
