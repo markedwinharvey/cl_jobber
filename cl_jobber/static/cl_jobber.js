@@ -45,6 +45,7 @@ $(document)
 					'package':
 						JSON.stringify({
 							'file':'cgi-bin/fetch_pages.py',
+							//'file':'cgi-bin/save_prefs.py',
 							'contents':sel
 						})
 				
